@@ -2,7 +2,7 @@
 let weight = 68;
 
 //身長1.7ｍ
-let height = 170;
+let height = 1.7;
 
 let bmi = weight / (height * height); 
 
